@@ -1,0 +1,96 @@
+
+---Downloaded files---
+The import files for: FULL DEMO 02 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/match/wordpress
+Data file = C:\xampp\htdocs\Match\wordpress\wp-content\plugins\homey-core/demos/homey02/content.xml
+Widget file = C:\xampp\htdocs\Match\wordpress\wp-content\plugins\homey-core/demos/homey02/widgets.json
+Customizer file = not defined!
+Redux files:
+homey_options -> C:\xampp\htdocs\Match\wordpress\wp-content\plugins\homey-core/demos/homey02/redux.json 
+
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Default Sidebar : 
+
+Buscar - Search - Imported
+
+Page Sidebar : 
+
+Navegación del menú - Company - Imported
+Navegación del menú - Help - Imported
+Navegación del menú - Company - Imported
+Navegación del menú - Help - Imported
+
+Listings Sidebar : 
+
+Homey: Listing list - Featured - Imported
+Homey: Taxonomies Cards - Explore - Imported
+Homey: Listing Card - Slider - Imported
+Homey: Reviews - Latest Reviews - Imported
+Homey: Latest Posts - Latest Posts - Imported
+Homey: Image Banner 300x250 - No Title - Imported
+
+Blog Sidebar : 
+
+Buscar - Search - Imported
+Homey: Latest Posts - Latest Posts - Imported
+Homey: Latest Comments - Latest Comments - Imported
+Homey: Image Banner 300x250 - Image Ad - Imported
+
+Footer Area 1 : 
+
+Homey: About Site - No Title - Imported
+
+Footer Area 2 : 
+
+Homey: Taxonomies List - Explore - Imported
+
+Footer Area 3 : 
+
+Mailchimp Sign-Up Form - Newsletter Sign Up - Imported
+Navegación del menú - Company - Imported
+
+Footer Area 4 : 
+
+Homey: Contact Us - Contact Us - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: homey_options finished successfully!
+
+---ocdi/after_import---
+

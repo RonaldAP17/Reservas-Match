@@ -1,0 +1,1 @@
+h{šf<?php exit; ?>a:1:{s:7:"content";s:53:"a:2:{s:7:"version";s:5:"2.3.5";s:8:"patterns";a:0:{}}";}

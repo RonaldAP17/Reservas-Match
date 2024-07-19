@@ -1,0 +1,25 @@
+2024-07-19T12:46:34+00:00 ERROR The api key or merchant id are invalid
+2024-07-19T12:51:06+00:00 INFO openpay_woocommerce_order_status_change_custom
+2024-07-19T12:51:06+00:00 INFO $old_status: checkout-draft
+2024-07-19T12:51:06+00:00 INFO $new_status: pending
+2024-07-19T12:51:06+00:00 INFO get_payment_method: cod
+2024-07-19T12:51:09+00:00 INFO openpay_woocommerce_order_status_change_custom
+2024-07-19T12:51:09+00:00 INFO $old_status: pending
+2024-07-19T12:51:09+00:00 INFO $new_status: processing
+2024-07-19T12:51:09+00:00 INFO get_payment_method: cod
+2024-07-19T12:51:12+00:00 DEBUG wc_custom_redirect_after_purchase 
+2024-07-19T12:51:12+00:00 DEBUG 3DS_redirect_url : 
+2024-07-19T12:51:12+00:00 DEBUG order_status : processing
+2024-07-19T12:51:13+00:00 INFO confirm_card_saved_notice : 
+2024-07-19T14:19:50+00:00 INFO openpay_woocommerce_order_status_change_custom
+2024-07-19T14:19:50+00:00 INFO $old_status: checkout-draft
+2024-07-19T14:19:50+00:00 INFO $new_status: pending
+2024-07-19T14:19:50+00:00 INFO get_payment_method: cod
+2024-07-19T14:19:53+00:00 INFO openpay_woocommerce_order_status_change_custom
+2024-07-19T14:19:53+00:00 INFO $old_status: pending
+2024-07-19T14:19:53+00:00 INFO $new_status: processing
+2024-07-19T14:19:53+00:00 INFO get_payment_method: cod
+2024-07-19T14:19:56+00:00 DEBUG wc_custom_redirect_after_purchase 
+2024-07-19T14:19:56+00:00 DEBUG 3DS_redirect_url : 
+2024-07-19T14:19:56+00:00 DEBUG order_status : processing
+2024-07-19T14:19:58+00:00 INFO confirm_card_saved_notice : 
